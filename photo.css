@@ -22,6 +22,25 @@
   margin-left: 13%;
   padding-bottom: 3%;
 }
+.footer
+{
+    height: 50px;
+    background-color: rgb(77, 82, 82);
+    color:whitesmoke;
+}
+.footer h6
+{
+line-height: 50px;
+}
+.ont #p1{
+font-size: 30px;
+font-weight: bold;
+text-align: center;
+}
+.ont #p2{
+    font-size: 18px;
+    text-align: center;
+    }
 
 @media(max-width:500px)
 {
